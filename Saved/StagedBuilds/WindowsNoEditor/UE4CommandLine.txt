@@ -1,0 +1,1 @@
+../../../MyTestGame/MyTestGame.uproject  /Game/StarterContent/Maps/Minimal_Default -Messaging -SessionId=9845C8EC40E04C110D08FFBD6B0D79B4 -SessionOwner=DNK -SessionName='Play On Device' -iterative
